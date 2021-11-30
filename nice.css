@@ -1,0 +1,88 @@
+body {
+  text-align: center;
+  background-color: gray;
+  font-family: "Ariel";
+}
+
+.main-image {
+  text-align: center;
+  width: auto;
+  border: solid 4px black;
+  border-radius: 30%;
+  box-shadow: 0 0 20px 10px rgba(0, 10, 30, .8);
+}
+
+.mc_embed_signup{
+background:#fff;
+clear:left;
+font:14px Helvetica,Arial,sans-serif;
+width:100%;
+}
+.welcome {
+  text-shadow: 2px 3px 4px black;
+  background-color: white;
+  margin: auto;
+  padding: 8px;
+  border: solid black 10px;
+  width: 430px;
+  box-shadow: inset 0 0 5px 5px rgba(0, 10, 30, .8);
+}
+
+.muslim {
+  box-shadow: inset 0 0 5px 5px rgba(0, 10, 30, .8);
+  text-shadow: 1px 1px 3px black;
+  background-color: white;
+  margin: auto;
+  padding: 8px;
+  border: solid black 10px;
+  width: 430px;
+}
+
+.list li {
+  border-radius: 6%;
+  box-shadow: 3px 3px 5px 5px rgba(0, 10, 30, .8);
+  background-color: gainsboro;
+  margin: auto;
+  padding: 8px;
+  border: solid mediumaquamarine 7px;
+  border-top: solid black 9px;
+  border-bottom: solid black 8px;
+  width: 400px;
+}
+
+.pillar {
+  position: relative;
+  left: 20px;
+  background-color: gainsboro;
+  margin: auto;
+  padding: 8px;
+  border: solid mediumaquamarine 10px;
+  border-top: solid black 9px;
+  border-bottom: solid black 9px;
+  width: 180px;
+}
+
+.pillars {
+  text-decoration: none;
+  position: relative;
+  left: 20px;
+  background-color: gainsboro;
+  margin: auto;
+  padding: 8px;
+  border: solid peachpuff 10px;
+  border-top: solid black 9px;
+  border-bottom: solid black 9px;
+  width: 180px;
+}
+
+.listt li {
+  border-radius: 6%;
+  box-shadow: 3px 3px 5px 5px rgba(0, 10, 30, .8);
+  background-color: gainsboro;
+  margin: auto;
+  padding: 8px;
+  border: solid peachpuff 7px;
+  border-top: solid black 9px;
+  border-bottom: solid black 9px;
+  width: 400px;
+}
